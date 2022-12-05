@@ -1,0 +1,6 @@
+name: GreetingPlugin
+version: '${project.version}'
+main: org.lumbabalumba.greetingplugin.GreetingPlugin
+api-version: 1.19
+authors: [ LumbaBalumba ]
+description: A plugin that changes greeting messages
